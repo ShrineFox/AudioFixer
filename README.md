@@ -3,7 +3,8 @@ Simple commandline program that changes your Windows default audio devices to th
 - VoiceMeeter Input
 - VoiceMeeter Aux Input
 - VoiceMeeter Output
-- VoiceMeeter Aux Output  
+- VoiceMeeter Aux Output
+  
 I made this because it's always annoyed me that Windows automatically changes your default devices whenever  
 you plug in another device. At least with this, I can fix it in one click whenever it happens.
 # Credits
